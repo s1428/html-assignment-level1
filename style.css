@@ -1,0 +1,13 @@
+.btn {
+    background-color: green;
+}
+
+h1 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:rgb(5, 5, 53);
+    font-size:50px;
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+    text-decoration-color: black;
+
+}
